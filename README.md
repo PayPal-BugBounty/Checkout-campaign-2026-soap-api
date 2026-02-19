@@ -1,6 +1,6 @@
 # PayPal SOAP API Tester
 
-A web-based security testing tool for PayPal's legacy NVP/SOAP APIs. Built with Next.js for easy Vercel deployment.
+A web-based security testing tool for PayPal's legacy SOAP APIs. Built with Next.js for easy Vercel deployment.
 
 ## Features
 
